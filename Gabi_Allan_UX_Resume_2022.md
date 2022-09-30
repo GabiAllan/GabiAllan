@@ -1,9 +1,8 @@
 # [Gabi Allan](https://www.gabiallan.com/)
 
 | [Portfolio](https://www.gabiallan.com/) |[LinkedIn](https://www.linkedin.com/in/gaballan/) | hireme@gabiallan.com | Seattle, WA | +1 206 759 0941 |
-| --- | --- | --- | --- | --- |
 ___
-**Hi, I'm Gabi** :smile:
+**Hi, I'm Gabi**
 
 An aspiring UX Designer with **3 years’ experience** working as a Graphic Designer in fast paced ecommerce environments. I hold a **Bachelor’s degree in Industrial Design**, with a focus on user-centered product design. I thrive in solving complex design challenges using research & data to inform decisions and produce beautiful, **functional & meaningful user experiences**.
 ___
@@ -26,6 +25,7 @@ January 2020 - November 2021
 - My **design thinking** skills resulted in high quality work which often exceeded income goals, contributed to the subscriber growth rate of the newsletters and enhanced the brand’s playful personality
 
 Other contributions and responsibilities include
+
 - **Working with engineers** to improve the functionality of the new, internally built tool used for designing and sending newsletters
 - The **design and upkeep of the site’s homepage banners**, for organic and supplier paid campaigns
 - Monitoring and **analyzing** the performance of newsletters and banners to **optimize results**
