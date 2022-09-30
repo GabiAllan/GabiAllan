@@ -1,6 +1,6 @@
 # [Gabi Allan](https://www.gabiallan.com/)
 
-| [Portfolio](https://www.gabiallan.com/) |[LinkedIn](https://www.linkedin.com/in/gaballan/) | hireme@gabiallan.com | Seattle, WA | +1 206 759 0941 |
+[Portfolio](https://www.gabiallan.com/) | [LinkedIn](https://www.linkedin.com/in/gaballan/) | hireme@gabiallan.com | Seattle, WA | +1 206 759 0941
 ___
 **Hi, I'm Gabi**
 
